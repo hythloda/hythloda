@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+Howdy! I'm Dr. Amanda Martin. My passion is coding for solutions. I use to code for physics and astornomy and now I code for more social problems.
+I love working with APIs, making cool scripts or programs, and learning new things. I'm passionate about open source and about sharing what I know with others!
+
+- 👯 I’m looking to collaborate on [Deephaven](https://github.com/deephaven)
+- 📫 Reach me on [gitter](https://gitter.im/deephaven/deephaven) 
+- ⚡ Fun fact: I did research astrophysics before moving to teaching, then full time software.
+- 
 <!--
 **hythloda/hythloda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
