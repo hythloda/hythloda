@@ -4,7 +4,7 @@ I'm Dr. Amanda Martin. My passion is coding for solutions in the open source rea
 
 
 [![Twitter: DrAmandaLMartin](https://img.shields.io/twitter/follow/DrAmandaLMartin?style=social)](https://twitter.com/DrAmandaLMartin)
-[![Linkedin: ](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-martin-69350067/)](https://www.linkedin.com/in/amanda-martin-69350067/)
+[![Linkedin: ](https://img.shields.io/badge/-MmandaMartin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-martin-69350067/)](https://www.linkedin.com/in/amanda-martin-69350067/)
 [![GitHub Hythloda](https://img.shields.io/github/followers/hythloda?label=follow&style=social)](https://github.com/Hythloda)
 
 
