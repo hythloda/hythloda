@@ -1,11 +1,13 @@
-### Howdy 👋
 
-I'm Dr. Amanda Martin. My passion is coding for solutions in the open source realm. No project is to big or small as long as it helps move us forward!
 
+<h2><img src="https://user-images.githubusercontent.com/51727488/163687478-12a477e7-b398-4284-b7b3-aeb7b554fe08.png" width="30"/> नमस्ते (Howdy)👋, I'm Anmol  Dr. Amanda Martin! <img src="https://user-images.githubusercontent.com/51727488/163687538-2bfd7dcf-6f34-495d-80f4-e95d31069283.gif" width="50"></h2>
+<img align='right' src="https://user-images.githubusercontent.com/51727488/163687174-76db7d91-e43c-4d7d-9c65-852f82700198.png" width="230">
+
+My passion is coding for solutions in the open source realm. No project is to big or small as long as it helps move us forward!
 
 [![Twitter: DrAmandaLMartin](https://img.shields.io/twitter/follow/DrAmandaLMartin?style=social)](https://twitter.com/DrAmandaLMartin)
-[![Linkedin: ](https://img.shields.io/badge/-MmandaMartin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-martin-69350067/)](https://www.linkedin.com/in/amanda-martin-69350067/)
-[![GitHub Hythloda](https://img.shields.io/github/followers/hythloda?label=follow&style=social)](https://github.com/Hythloda)
+[![Linkedin: ](https://img.shields.io/badge/-DrAmandaMartin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-martin-69350067/)](https://www.linkedin.com/in/amanda-martin-69350067/)
+[![GitHub](https://img.shields.io/github/followers/hythloda?label=follow&style=social)](https://github.com/Hythloda)
 
 
 I love working with APIs, making cool scripts or programs, and learning new things. I'm passionate about sharing what I know with others!
