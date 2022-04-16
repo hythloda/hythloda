@@ -17,8 +17,11 @@ I love working with APIs, making cool scripts or programs, and learning new thin
 - 🌱 I’m currently learning about the [Reach DSL](https://github.com/reach-sh/reach-lang) through a Bounty Hack
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+ I love connecting with people</b> so if you want to say <b>hi, schedule a time below!</b> 👇 <br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
+ <a href="https://calendly.com/hythloda?primary_color=ff00f6" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+ 
 
 🎥 What to watch some videos to learn:
 
