@@ -1,6 +1,6 @@
 
 
-<h2><img src="https://user-images.githubusercontent.com/51727488/163687478-12a477e7-b398-4284-b7b3-aeb7b554fe08.png" width="30"/>(Howdy)👋, I'm Dr. Amanda Martin! <img src="https://user-images.githubusercontent.com/51727488/163687538-2bfd7dcf-6f34-495d-80f4-e95d31069283.gif" width="50"></h2>
+<h2><img src="https://user-images.githubusercontent.com/51727488/163687478-12a477e7-b398-4284-b7b3-aeb7b554fe08.png" width="30"/>(Howdy)👋, I'm Dr. Amanda Martin! <img src="https://user-images.githubusercontent.com/51727488/163687621-0c62a7af-ef82-4b1b-ab49-44b72579781c.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/51727488/163687174-76db7d91-e43c-4d7d-9c65-852f82700198.png" width="230">
 
 My passion is coding for solutions in the open source realm. No project is to big or small as long as it helps move us forward!
