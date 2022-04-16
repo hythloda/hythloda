@@ -12,7 +12,7 @@ My passion is coding for solutions in the open source realm. No project is to bi
 
 I love working with APIs, making cool scripts or programs, and learning new things. I'm passionate about sharing what I know with others!
 
-- 👯 I’m looking to collaborate on [Gradle](https://github.com/gradle/gradle)
+- 👯 I’m looking to collaborate on anything open source.  Right now I am most posed to help with [Deephaven](http://deephaven.io/) and [Gradle](https://github.com/gradle/gradle)
 - ⚡ Fun fact: I did research astrophysics before moving to teaching, then full time software.
 - 🌱 I’m currently learning about the [Reach DSL](https://github.com/reach-sh/reach-lang) through a Bounty Hack
 
