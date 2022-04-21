@@ -22,13 +22,16 @@ I love working with APIs, making cool scripts or programs, and learning new thin
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
  <a href="https://calendly.com/hythloda?primary_color=ff00f6" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
  
+ ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hythloda&count_private=true&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hythloda&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=8)](https://github.com/hythloda/github-readme-stats) 
 
-🎥 What to watch some videos to learn:
 
 
-|   |  |
-| ------------- | ------------- |
+🎥 Want to watch some videos to learn?
+
+
+
 |[![Kafka Quick Start](https://img.youtube.com/vi/B71gU1sARI8/0.jpg)](https://www.youtube.com/watch?v=B71gU1sARI8 "Kafka Quick Start")  | [![Kafka in Deephaven](https://img.youtube.com/vi/7SGM6Utsw1E/0.jpg)](https://www.youtube.com/watch?v=7SGM6Utsw1E "Kafka in Deephaven")  |
+ | ------------- | ------------- |
 | [![Python Functions](https://img.youtube.com/vi/rAFxiZ71EGo/0.jpg)](https://www.youtube.com/watch?v=rAFxiZ71EGo "Python Functions")  | [![Build & share apps](https://img.youtube.com/vi/VwReH2tl4Zg/0.jpg)](https://www.youtube.com/watch?v=VwReH2tl4Zg "Build & share apps") |
 
 
