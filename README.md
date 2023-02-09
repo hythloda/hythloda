@@ -27,8 +27,33 @@ I love working with APIs, making cool scripts or programs, and learning new thin
 
  ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hythloda&count_private=true&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hythloda&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=8)](https://github.com/hythloda/github-readme-stats) 
 
+ 🎧 Podcast:
+ 
+ [<img width="500" alt="Screenshot 2023-02-09 at 12 00 41 PM" src="https://user-images.githubusercontent.com/51727488/217884911-a340111c-7d74-4a30-8ae1-86ea6e0fdb4e.png">](https://bootifulpodcast.fm/#/episodes/c06c42ae-54da-47ce-a183-fb588e78f408 )
+
+ 
+ 🗓️ Conference Presentations:
+ [![FSkS-cMXMAEFa13](https://user-images.githubusercontent.com/51727488/217886156-783b0676-a3d9-4572-9613-97e31f0dee09.jpg)](https://www.youtube.com/watch?v=BWpyGj10JAY)
+
+[<img width="500" alt="Screenshot 2023-02-09 at 12 08 08 PM" src="https://user-images.githubusercontent.com/51727488/217886677-4adf062e-0129-4591-b9ef-d8fbca4c1a47.png">](https://www.youtube.com/watch?v=sUgSIvLHZA4)
+
+ [<img width="500" alt="Screenshot 2023-02-09 at 12 08 35 PM" src="https://user-images.githubusercontent.com/51727488/217886788-52c5028b-2888-40aa-98d5-29d7387208a4.png">](https://www.youtube.com/watch?v=HbxFpKCd_3g)
 
 
+ [<img width="500" alt="Screenshot 2023-02-09 at 12 07 33 PM" src="https://user-images.githubusercontent.com/51727488/217886547-92a0c34a-757f-49ae-9779-09be51e5ae06.png">](https://www.youtube.com/watch?v=h3bYBfDGz2Q)
+
+🎥 Tutorials:
+
+|[![Kafka Quick Start](https://img.youtube.com/vi/B71gU1sARI8/0.jpg)](https://www.youtube.com/watch?v=B71gU1sARI8 "Kafka Quick Start")  | [![Kafka in Deephaven](https://img.youtube.com/vi/7SGM6Utsw1E/0.jpg)](https://www.youtube.com/watch?v=7SGM6Utsw1E "Kafka in Deephaven")  |
+ | ------------- | ------------- |
+| [![Python Functions](https://img.youtube.com/vi/rAFxiZ71EGo/0.jpg)](https://www.youtube.com/watch?v=rAFxiZ71EGo "Python Functions")  | [![Build & share apps](https://img.youtube.com/vi/VwReH2tl4Zg/0.jpg)](https://www.youtube.com/watch?v=VwReH2tl4Zg "Build & share apps") |
+
+
+ 📖 Blog posts:
+- [Compilation Avoidance](https://blog.gradle.org/compilation-avoidance)
+- [Kafka + Parquet: Maximize speed, minimize storage](https://deephaven.io/blog/2022/02/22/kafka-parquet/)
+- [The easiest way to see your crypto: Open-High-Low-Close charts](https://deephaven.io/blog/2022/02/03/finnhub/)
+- [Take Twitter's temperature with Deephaven: a sentiment analysis tutorial](https://deephaven.io/blog/2022/01/11/twitter-sentiment/)
 
 <!--
 **hythloda/hythloda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
