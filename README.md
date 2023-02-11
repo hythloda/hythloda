@@ -16,7 +16,7 @@ I love working with APIs, making cool scripts or programs, and learning new thin
 
 - 👯 I’m looking to collaborate on anything open source.  Right now I am most posed to help with [Gradle](https://github.com/gradle/gradle)
 - ⚡ Fun fact: I did research astrophysics before moving to teaching, then full time software.
-- 🌱 I’m currently learning about the [Kotlin](https://kotlinlang.org/).
+- 🌱 I’m currently learning about [Kotlin](https://kotlinlang.org/).
 
 
 
