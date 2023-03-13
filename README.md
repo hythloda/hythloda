@@ -7,7 +7,7 @@ My passion is coding for solutions in the open source realm. No project is to bi
 
 [![Twitter: DrAmandaLMartin](https://img.shields.io/twitter/follow/DrAmandaLMartin?label=Follow)](https://twitter.com/DrAmandaLMartin)
 [![Mastodon: DrAmandaLMartin](https://img.shields.io/mastodon/follow/109514317432038567?domain=https%3A%2F%2Fmastodon.social&label=Follow)](https://mastodon.social/@DrAmandaLMartin)
-[![Linkedin: ](https://img.shields.io/badge/-DrAmandaLMartin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-martin-69350067/)](https://www.linkedin.com/in/amanda-martin-69350067/)
+[![Linkedin: ](https://img.shields.io/badge/-DrAmandaLMartin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dr-amanda-martin-69350067/)](https://www.linkedin.com/in/dr-amanda-martin-69350067/)
 [![GitHub](https://img.shields.io/github/followers/hythloda?label=follow&style=social)](https://github.com/Hythloda)
 
 
