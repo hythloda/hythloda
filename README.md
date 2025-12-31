@@ -22,10 +22,6 @@ I love working with APIs, making cool scripts or programs, and learning new thin
  <a href="https://calendar.app.google/YVPMauG1FfD1SeYW9" target="_blank">
  <img width="360" alt="Screen Shot 2022-04-28 at 3 55 00 PM" src="https://user-images.githubusercontent.com/51727488/165834891-ddb007f8-6dc3-4f4a-8c71-83d046f390f6.png"></a>
  
-
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hythloda&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hythloda&layout=compact&theme=radical&langs_count=8)
-
  🎧 Podcast:
  
  [<img width="500" alt="Screenshot 2023-02-09 at 12 00 41 PM" src="https://user-images.githubusercontent.com/51727488/217884911-a340111c-7d74-4a30-8ae1-86ea6e0fdb4e.png">](https://bootifulpodcast.fm/#/episodes/c06c42ae-54da-47ce-a183-fb588e78f408 )
