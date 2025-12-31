@@ -23,7 +23,8 @@ I love working with APIs, making cool scripts or programs, and learning new thin
  <img width="360" alt="Screen Shot 2022-04-28 at 3 55 00 PM" src="https://user-images.githubusercontent.com/51727488/165834891-ddb007f8-6dc3-4f4a-8c71-83d046f390f6.png"></a>
  
 
- ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hythloda&count_private=true&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hythloda&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=8)](https://github.com/hythloda/github-readme-stats) 
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=hythloda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hythloda&layout=compact&theme=radical&langs_count=8)
 
  🎧 Podcast:
  
